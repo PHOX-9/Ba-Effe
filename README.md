@@ -47,9 +47,7 @@ Keep it clean, keep it original, keep it professional:
 
 ## 📂 How to Contribute
 
-**New here?** Read contributor.md first. It's like the instruction manual, but actually useful.
-
-[contributor.md](https://www.notion.so/contributor-md-2cf45b0455d88015a50edcbc53d22ff1?pvs=21)
+**New here?** Read [CONTRIBUTING.md](CONTRIBUTING.md) first. It's like the instruction manual, but actually useful.
 
 Each issue tells you what to create. Just follow the folder structure below and you're golden.
 
