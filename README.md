@@ -149,7 +149,7 @@ Use whatever you're comfortable with:
 
 - [CONTRIBUTING.md](CONTRIBUTING.md) — Detailed guidelines
 - [OpenCode Website](https://events.geekhaven.in/) — Register for leaderboard
-- [OpenCode Discord](https://discord.gg/opencode) — Support and updates
+- [**OpenCode Discord**](https://discord.gg/Y45nZsND8) — Join for support
 
 ---
 
