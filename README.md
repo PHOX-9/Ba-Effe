@@ -4,7 +4,7 @@
 
 ### Effervescence Creatives Repository
 
-<img src="./banner.jpg" alt="Ba-Effe Banner" width="800"/>
+<img src="./assets/banner.jpg" alt="Ba-Effe Banner" width="800"/>
 
 </div>
 
